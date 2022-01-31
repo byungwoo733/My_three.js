@@ -17,6 +17,11 @@ Three.js Editor
 
 https://threejs.org/editor/
 
+
+Online WGSL Editor
+
+https://takahirox.github.io/online-wgsl-editor/index.html
+
 WebGLstudio.js
 
 https://webglstudio.org/demo/
