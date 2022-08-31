@@ -27,7 +27,9 @@ WebGLstudio.js
 https://webglstudio.org/demo/
 
 WebAssembly Studio
+
 https://webassembly-studio.kamenokosoft.com/
 
 AssemblyScript (A TypeScript-like language for WebAssembly)
+
 https://www.assemblyscript.org/
