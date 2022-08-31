@@ -25,3 +25,6 @@ https://takahirox.github.io/online-wgsl-editor/index.html
 WebGLstudio.js
 
 https://webglstudio.org/demo/
+
+WebAssembly Studio
+https://webassembly-studio.kamenokosoft.com/
